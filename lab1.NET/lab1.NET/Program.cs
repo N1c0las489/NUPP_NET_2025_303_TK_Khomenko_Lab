@@ -56,9 +56,9 @@ class Program
 {
     static void Main()
     {
-        Person person = new Person("Ivan", 30);
-        Student student = new Student("Maria", 20, "KNU");
-        Teacher teacher = new Teacher("Oleg", 45, "Mathematics");
+        Person person = new Person("Mykola", 20);
+        Student student = new Student("Oleksandr", 20, "NUPP");
+        Teacher teacher = new Teacher("Petro", 25, ".NET");
 
         person.ShowInfo();
         Console.WriteLine();
