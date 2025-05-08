@@ -1,0 +1,14 @@
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\bin\Debug\net8.0\lab2_Khomenko.exe
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\bin\Debug\net8.0\lab2_Khomenko.deps.json
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\bin\Debug\net8.0\lab2_Khomenko.runtimeconfig.json
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\bin\Debug\net8.0\lab2_Khomenko.dll
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\bin\Debug\net8.0\lab2_Khomenko.pdb
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\lab2_Khomenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\lab2_Khomenko.AssemblyInfoInputs.cache
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\lab2_Khomenko.AssemblyInfo.cs
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\lab2_Khomenko.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\lab2_Khomenko.dll
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\refint\lab2_Khomenko.dll
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\lab2_Khomenko.pdb
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\lab2_Khomenko.genruntimeconfig.cache
+C:\Users\Николай\source\repos\lab2_Khomenko\lab2_Khomenko\obj\Debug\net8.0\ref\lab2_Khomenko.dll
