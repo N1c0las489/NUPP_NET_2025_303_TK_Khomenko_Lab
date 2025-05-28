@@ -1,0 +1,11 @@
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\bin\Debug\net8.0\Student_Common.deps.json
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\bin\Debug\net8.0\Student_Common.dll
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\bin\Debug\net8.0\Student_Common.pdb
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\Student_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\Student_Common.AssemblyInfoInputs.cache
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\Student_Common.AssemblyInfo.cs
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\Student_Common.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\Student_Common.dll
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\refint\Student_Common.dll
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\Student_Common.pdb
+C:\Users\Николай\source\repos\lab1.1_Khomenko\Student_Common\obj\Debug\net8.0\ref\Student_Common.dll
