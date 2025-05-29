@@ -51,7 +51,7 @@ namespace University2.REST.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<StudentModel>> GetStudent(Guid id)
         {
-            if (User.IsInRole("Student") && !IsCurrentUser(id))
+            if (User.IsInRole("Студент") && !IsCurrentUser(id))
                 return Forbid();
 
             var student = await _studentService.ReadAsync(id);
@@ -80,7 +80,7 @@ namespace University2.REST.Controllers
 
             var success = await _studentService.CreateAsync(studentModel);
             if (!success)
-                return BadRequest("Could not create student.");
+                return BadRequest("Не вдалося створити студента.");
 
             await _studentService.SaveAsync();
 
